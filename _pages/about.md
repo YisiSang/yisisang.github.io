@@ -10,10 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a Machine Learning Engineer with an interdisciplinary background in Natural Language Processing (NLP), Human-Computer Interaction (HCI), and Psychometrics (focusing on evaluation and measurement). My previous experience in evaluation task design, large-scale data pipeline products, Large Language Model (LLM) research, and user interface and user experience (UI/UX) design equips me with a diverse skillset, collaborative mindset, and deliverable-driven attitude towards the next exciting adventure in the era of AI. 
-
-I got my PhD from Syracuse University, School of Information Studies, advised by [Dr. Jeffrey Stanton](https://ischool.syr.edu/jeffrey-stanton/) and actively collaborating with [Dr. Mo Yu](https://sites.google.com/site/moyunlp/) . Before joining iSchool, my Master's program is about Quantitative Research, Evaluation, and Measurement. My undergraduate major is German (linguistics) with a minor in psychology (psychometrics). I have always persisted in doing cutting-edge research. My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL, NAACL, and EMNLP. 
-
+I am an AI researcher and applied scientist specializing in NLP, LLMs, and intelligent agent systems, with a focus on turning cutting-edge AI research into real-world products. My work spans LLM post-training, retrieval-augmented systems, self-evolving agents, and evaluation, aimed at building AI systems that are reliable, scalable, and continuously improving. Across roles at Amazon and Apple, I’ve built infrastructure and algorithms for agent improvement, knowledge extraction, hallucination mitigation, and human-in-the-loop evaluation. With a PhD in Information Science and publications across both AI and HCI, I bring a cross-disciplinary, product-oriented perspective to building intelligent systems that are technically rigorous, practically useful, and built for real-world impact. 
 
 News
 ======
