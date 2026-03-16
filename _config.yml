@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yisi Sang"
   avatar           : "profile.png"
-  bio              : "Researcher & Machine Learning Engineer"
-  location         : "Boston, MA"
+  bio              : "Applied Scientist"
+  location         : "Palo Alto, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OPAGntEAAAAJ&hl=en"
-  email            : "yisang@syr.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
