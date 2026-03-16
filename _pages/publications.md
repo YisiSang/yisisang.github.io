@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Selected Publications ###
-Please refer to my [<a href='https://scholar.google.com/citations?user=OPAGntEAAAAJ&hl=en'>Google Scholar</a>] for the most recent updates on publications.
+Please refer to my <a href='https://scholar.google.com/citations?user=OPAGntEAAAAJ&hl=en'>Google Scholar</a> for the most recent updates on publications.
 
 ## 2024 ## 
 __In-Context Sampling Strategy for Reliable LLM Prompting__ 
