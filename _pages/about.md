@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am an AI researcher and applied scientist specializing in NLP, LLMs, and intelligent agent systems, with a focus on turning cutting-edge AI research into real-world products. My work spans LLM post-training, retrieval-augmented systems, self-evolving agents, and evaluation, aimed at building AI systems that are reliable, scalable, and continuously improving. Across roles at Amazon and Apple, I’ve built infrastructure and algorithms for agent improvement, knowledge extraction, hallucination mitigation, and human-in-the-loop evaluation. With a PhD in Information Science and publications across both AI and HCI, I bring a cross-disciplinary, product-oriented perspective to building intelligent systems that are technically rigorous, practically useful, and built for real-world impact. 
+I am an AI researcher and applied scientist specializing in LLMs and intelligent agent systems, with a focus on turning cutting-edge AI research into real-world products. My work spans LLM post-training, retrieval-augmented systems, self-evolving agents, and evaluation, aimed at building AI systems that are reliable, scalable, and continuously improving. Across roles at Amazon and Apple, I’ve built infrastructure and algorithms for agent improvement, knowledge extraction, hallucination mitigation, and human-in-the-loop evaluation. With a PhD in Information Science and publications across both AI and HCI, I bring a cross-disciplinary, product-oriented perspective to building intelligent systems that are technically rigorous, practically useful, and built for real-world impact. 
 
 News
 ======
