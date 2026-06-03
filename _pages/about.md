@@ -14,9 +14,9 @@ I am currently an Applied Scientist at **Amazon Ads Foundational Model & Agent**
 
 Before this, I was at **Apple AIML** (2022–2025), where I worked on Siri's open-domain knowledge extraction — knowledge graph construction, entity linking evaluation, and data quality measurement for production knowledge systems. I interned at Fidelity on dialogue summarization, and volunteered with Hugging Face on the GEM benchmark, designing human evaluation criteria for multilingual NLG.
 
-I received my PhD in Information Science from Syracuse University, where I worked on narrative understanding and human-AI evaluation. Across AI and HCI venues (NAACL, ACL, EMNLP, ICML, IJCAI, CHI, CSCW, TOCHI), my work has consistently focused on the data side of intelligent systems.
+I received my PhD in Information Science from Syracuse University, where I worked on narrative understanding and human-AI collaboration. Across AI and HCI venues (NAACL, ACL, EMNLP, ICML, IJCAI, CHI, CSCW, TOCHI), my work has consistently focused on the data and evaluation side of intelligent systems.
 
-**Research Interests:** Data for LLM Post-training, Verified Tool-Use & Trajectories, Agent Evaluation, Knowledge Extraction, and Human-in-the-Loop Annotation.
+**Research Interests:** Data and Evaluation for LLM Agents and Reasoning Models.
 
 News
 ======
